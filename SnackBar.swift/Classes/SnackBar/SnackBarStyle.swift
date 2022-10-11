@@ -12,7 +12,7 @@ public struct SnackBarStyle {
 	// Container
 	public var background: UIColor = .lightGray
 	var padding = 16
-	var inViewPadding = 20
+	var inViewPadding = 16
 	// Label
 	public var textColor: UIColor = .black
     public var font: UIFont = UIFont.systemFont(ofSize: UIFontMetrics.default.scaledValue(for: 14))
