@@ -32,8 +32,7 @@ open class SnackBar: UIView, SnackBarAction, SnackBarPresentable {
         return SnackBarStyle()
     }
     private let contextView: UIView
-    private let mainView: UIView
-    private let message: String
+    private var mainView: UIView = UIView()
     private let duration: Duration
     private var dismissTimer: Timer?
     
