@@ -2,7 +2,7 @@
 //  SnackBarDurationTests.swift
 //  SnackBar.swift_Tests
 //
-//  Created by Ahmad Almasri on 9/14/20.
+//  Created by Soliman Yousry on 9/14/20.
 //  Copyright © 2020 CocoaPods. All rights reserved.
 //
 

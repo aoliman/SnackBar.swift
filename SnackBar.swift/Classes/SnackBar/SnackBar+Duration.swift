@@ -2,7 +2,7 @@
 //  SnackBar+Duration.swift
 //  CommonUI
 //
-//  Created by Ahmad Almasri on 9/11/20.
+//  Created by Soliman Yousry on 9/11/20.
 //
 
 import UIKit

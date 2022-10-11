@@ -96,7 +96,7 @@ https://github.com/ahmedAlmasri/SnackBar.swift
 
 ## Author
 
-Ahmad Almasri, ahmed.almasri@ymail.com
+Soliman Yousry, solimanelfar@ymail.com
 
 ## License
 

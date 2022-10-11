@@ -2,7 +2,7 @@
 //  SnackBarStyle.swift
 //  CommonUI
 //
-//  Created by Ahmad Almasri on 9/11/20.
+//  Created by Soliman Yousry on 9/11/20.
 //
 
 import UIKit
@@ -11,7 +11,7 @@ public struct SnackBarStyle {
 	public init() { }
 	// Container
 	public var background: UIColor = .lightGray
-	var padding = 5
+	var padding = 16
 	var inViewPadding = 20
 	// Label
 	public var textColor: UIColor = .black
