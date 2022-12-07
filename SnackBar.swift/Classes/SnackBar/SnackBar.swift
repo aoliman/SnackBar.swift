@@ -76,7 +76,7 @@ open class SnackBar: UIView, SnackBarAction, SnackBarPresentable {
     
     private func setupSwipe() {
         
-        self.addSwipeGestureAllDirection(action: #selector(self.swipeAction(_:)))
+        if(self.duration != .infinite)self.addSwipeGestureAllDirection(action: #selector(self.swipeAction(_:)))
 
     }
     
